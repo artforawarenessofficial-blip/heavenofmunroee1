@@ -12,7 +12,9 @@
     { "source": "/manifest.json", "destination": "/manifest.json" },
     { "source": "/sw.js", "destination": "/sw.js" },
     { "source": "/", "destination": "/index.html" },
-    { "source": "/inquiry", "destination": "/index.html" }
+    { "source": "/inquiry", "destination": "/index.html" },
+    { "source": "/privacy", "destination": "/index.html" },
+    { "source": "/terms", "destination": "/index.html" }
   ],
   "headers": [
     {
